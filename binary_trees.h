@@ -18,7 +18,7 @@
  * struct binary_tree_s - Binary tree node
  *
  * @n: Integer stored in the node
- * @par Pointer to the parent node
+ * @par: Pointer to the parent node
  * @left: Pointer to the left child node
  * @right: Pointer to the right child node
  */
